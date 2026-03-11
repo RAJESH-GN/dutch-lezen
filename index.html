@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dutch A1 Reading Exam</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- SELECT SCREEN -->
+  <section id="screen-select" class="screen active">
+    <div class="select-container">
+      <h1>Kies een examen</h1>
+      <p class="subtitle">Selecteer hieronder welke set je wilt oefenen.</p>
+      <div id="exam-list" class="exam-list"></div>
+    </div>
+  </section>
+
+  <!-- START SCREEN -->
+  <section id="screen-start" class="screen">
+    <div class="start-container">
+      <h1 id="exam-title"></h1>
+      <p id="exam-description" class="subtitle"></p>
+      <div id="exam-start-message" class="start-message"></div>
+      <div class="start-actions">
+        <button id="btn-back" class="btn btn-outline">Terug naar overzicht</button>
+        <button id="btn-start" class="btn btn-primary">Start examen</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- EXAM SCREEN -->
+  <section id="screen-exam" class="screen">
+    <header class="exam-header">
+      <div class="timer" id="timer">00:00</div>
+      <button id="btn-finish" class="btn btn-danger">Examen afronden</button>
+    </header>
+
+    <nav id="question-nav" class="question-nav"></nav>
+
+    <div class="exam-body">
+      <div class="passage-panel" id="passage-panel">
+        <div class="passage-meta">
+          <span id="passage-theme" class="badge"></span>
+          <span id="passage-type" class="badge badge-outline"></span>
+          <span id="passage-level" class="badge badge-outline"></span>
+        </div>
+        <div id="passage-context" class="passage-context"></div>
+        <div id="passage-hint" class="passage-hint"></div>
+        <div id="passage-text" class="passage-text"></div>
+      </div>
+      <div class="question-panel" id="question-panel"></div>
+    </div>
+  </section>
+
+  <!-- RESULTS SCREEN -->
+  <section id="screen-results" class="screen">
+    <div class="results-container">
+      <h1>Resultaten</h1>
+      <div class="score-banner" id="score-banner"></div>
+      <p class="encouragement">Goed gedaan! Blijf oefenen.</p>
+      <p class="tip">Tip: Lees eerst de hele tekst voordat je naar de vragen kijkt. Let op sleutelwoorden en cijfers.</p>
+      <div id="results-review" class="results-review"></div>
+      <button id="btn-to-weakness" class="btn btn-primary">Bekijk zwakke punten</button>
+    </div>
+  </section>
+
+  <!-- WEAKNESS SCREEN -->
+  <section id="screen-weakness" class="screen">
+    <div class="weakness-container">
+      <h1>Zwakke punten</h1>
+      <div id="weakness-summary" class="weakness-summary"></div>
+      <button id="btn-retake" class="btn btn-primary">Opnieuw beginnen</button>
+    </div>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>
