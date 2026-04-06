@@ -2052,6 +2052,1723 @@
           ]
         }
       ]
+    },
+    {
+      "title": "A1 Leesexamen Training: Naar Nederland 6-April 1",
+      "description": "Dit examen bereidt u voor op het officiële basisexamen inburgering. Het bevat teksten over werk, familie, wonen en transport op A1 niveau.",
+      "timerMinutes": 35,
+      "startMessage": "Welkom. We gaan oefenen voor het A1 Leesexamen. Dit is op niveau van het boek Naar Nederland en vergelijkbaar met het echte examen.",
+      "passages": [
+        {
+          "id": "p1",
+          "level": 3,
+          "theme": "Wonen",
+          "textType": "advertentie",
+          "context": "U leest een advertentie over een woning in een krant.",
+          "text": "Zoekt u een nieuw huis in het centrum van de stad? Wij hebben een mooie woning te huur aan de Kerkstraat. Het huis is groot en heeft drie kamers. Er is een moderne keuken met een nieuwe koelkast. De badkamer is schoon en heeft een toilet. De huur is achthonderd euro per maand. Dat is inclusief water en elektra. U moet ook een maand borg betalen. Het huis is beschikbaar vanaf één mei. Huisdieren zijn in deze woning niet toegestaan. Er is een kleine tuin achter het huis. U kunt daar lekker buiten zitten in de zon. Wilt u het huis bekijken? Bel dan naar meneer De Wit op nummer nul-zes-een-twee-drie-vier. Hij maakt graag een afspraak met u voor een bezichtiging.",
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple_choice",
+              "question": "Hoeveel kamers heeft de woning aan de Kerkstraat?",
+              "options": [
+                "Twee kamers",
+                "Drie kamers",
+                "Vier kamers"
+              ],
+              "correctAnswer": "Drie kamers",
+              "explanation": "The text states: 'Het huis is groot en heeft drie kamers.'",
+              "category": "detail"
+            },
+            {
+              "id": "q2",
+              "type": "multiple_choice",
+              "question": "Vanaf wanneer kunt u in het huis wonen?",
+              "options": [
+                "Vanaf één april",
+                "Vanaf één mei",
+                "Vanaf één juni"
+              ],
+              "correctAnswer": "Vanaf één mei",
+              "explanation": "The text explicitly mentions the date: 'Het huis is beschikbaar vanaf één mei.'",
+              "category": "time"
+            }
+          ]
+        },
+        {
+          "id": "p2",
+          "level": 3,
+          "theme": "Reizen",
+          "textType": "e-mail",
+          "context": "U leest een e-mail van Thomas aan zijn vriend over een reis met de trein.",
+          "text": "Beste Jan, hoe gaat het met je? Ik kom volgende week zaterdag bij je op bezoek in Utrecht. Ik neem de trein vanaf station Rotterdam Centraal. De trein vertrekt om tien over negen in de ochtend. Ik moet één keer overstappen op station Gouda. De reis duurt ongeveer vijftig minuten. Ik koop mijn kaartje online op de website van de NS. Dat is goedkoper dan een kaartje bij de automaat op het station. Een retourkaartje kost twintig euro. Ik heb geen korting in het weekend. Ik kom aan op het perron in Utrecht om tien uur. Kun je mij ophalen bij de hoofduitgang van het station? Daarna kunnen we samen ergens koffie drinken en praten. Ik heb er veel zin in. Tot zaterdag! Groetjes, Thomas.",
+          "questions": [
+            {
+              "id": "q3",
+              "type": "multiple_choice",
+              "question": "Hoe laat vertrekt de trein van Thomas uit Rotterdam?",
+              "options": [
+                "Om negen uur",
+                "Om tien over negen",
+                "Om tien uur"
+              ],
+              "correctAnswer": "Om tien over negen",
+              "explanation": "The text says: 'De trein vertrekt om tien over negen in de ochtend.'",
+              "category": "time"
+            },
+            {
+              "id": "q4",
+              "type": "multiple_choice",
+              "question": "Waar koopt Thomas zijn treinkaartje?",
+              "options": [
+                "Bij de automaat",
+                "Op het perron",
+                "Op de website"
+              ],
+              "correctAnswer": "Op de website",
+              "explanation": "The text states: 'Ik koop mijn kaartje online op de website van de NS.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p3",
+          "level": 3,
+          "theme": "Gezondheid",
+          "textType": "brief",
+          "context": "U leest een brief van de huisarts aan mevrouw Bakker.",
+          "text": "Geachte mevrouw Bakker, u heeft morgen een afspraak bij de huisarts om elf uur. De praktijk is op een nieuw adres: Dorpsstraat vijf. U kunt parkeren voor de deur. Vergeet niet uw identiteitsbewijs en uw zorgpas mee te nemen naar de afspraak. Bent u ziek of heeft u koorts? Bel dan eerst even met de assistent. Als u niet kunt komen, moet u de afspraak minimaal vierentwintig uur van tevoren afzeggen. Anders moet u de kosten zelf betalen. De dokter wil graag praten over uw pijn in de rug. Het gesprek duurt ongeveer vijftien minuten. Na de afspraak kunt u direct naar de apotheek voor uw medicijnen. De apotheek zit naast de praktijk van de dokter. We zien u graag morgen in de ochtend. Met vriendelijke groet, de assistent.",
+          "questions": [
+            {
+              "id": "q5",
+              "type": "multiple_choice",
+              "question": "Wat moet mevrouw Bakker meenemen naar de afspraak?",
+              "options": [
+                "Haar medicijnen",
+                "Een brief van het ziekenhuis",
+                "Haar identiteitsbewijs en zorgpas"
+              ],
+              "correctAnswer": "Haar identiteitsbewijs en zorgpas",
+              "explanation": "The text instructs: 'Vergeet niet uw identiteitsbewijs en uw zorgpas mee te nemen.'",
+              "category": "detail"
+            },
+            {
+              "id": "q6",
+              "type": "multiple_choice",
+              "question": "Waarom moet mevrouw Bakker naar de dokter?",
+              "options": [
+                "Zij heeft pijn in haar rug",
+                "Zij heeft koorts",
+                "Zij heeft nieuwe medicijnen nodig"
+              ],
+              "correctAnswer": "Zij heeft pijn in haar rug",
+              "explanation": "The text mentions: 'De dokter wil graag praten over uw pijn in de rug.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p4",
+          "level": 3,
+          "theme": "Onderwijs",
+          "textType": "schoolbericht",
+          "context": "U leest een bericht van een basisschool voor de ouders.",
+          "text": "Beste ouders en verzorgers, op vrijdag veertien april is er een speciale dag op school. Alle kinderen van de basisschool gaan naar de dierentuin in Arnhem. We vertrekken met een grote bus vanaf het schoolplein. De kinderen moeten om half negen op school zijn. De bus gaat om negen uur weg. We zijn om vijf uur in de middag weer terug op het schoolplein. Wilt u uw kind een rugzak meegeven? In de rugzak moet een lunchpakket en wat drinken zitten. Het uitstapje kost tien euro per kind. U kunt dit bedrag betalen bij de juf of de meester in de klas. Heeft uw kind hulp nodig in de bus? Laat het ons dan weten voor dinsdag. We hopen op een heel leuke en zonnige dag met alle leerlingen.",
+          "questions": [
+            {
+              "id": "q7",
+              "type": "multiple_choice",
+              "question": "Hoe gaan de kinderen naar de dierentuin?",
+              "options": [
+                "Met de trein",
+                "Met de bus",
+                "Met de auto"
+              ],
+              "correctAnswer": "Met de bus",
+              "explanation": "The text says: 'We vertrekken met een grote bus vanaf het schoolplein.'",
+              "category": "transport"
+            },
+            {
+              "id": "q8",
+              "type": "multiple_choice",
+              "question": "Wat moet er in de rugzak van het kind zitten?",
+              "options": [
+                "Tien euro",
+                "Eten en drinken",
+                "Boeken voor school"
+              ],
+              "correctAnswer": "Eten en drinken",
+              "explanation": "The text states: 'In de rugzak moet een lunchpakket en wat drinken zitten.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p5",
+          "level": 4,
+          "theme": "Boodschappen",
+          "textType": "advertentie",
+          "context": "U leest een folder van een supermarkt over aanbiedingen.",
+          "text": "Welkom bij supermarkt De Spar. Deze week hebben wij veel producten met korting voor onze klanten. De appels zijn nu heel goedkoop. Een tas met twee kilo appels kost nu maar twee euro. Ook het brood is in de aanbieding. Als u twee broden koopt, krijgt u het tweede brood voor de halve prijs. Wilt u vlees eten? De kip is deze week drie euro per pakje. Dat is een goede prijs voor verse kip. Let op: deze acties zijn alleen geldig van maandag tot en met woensdag. Op donderdag zijn de prijzen weer normaal. U kunt bij ons betalen met uw bankpas of met contant geld. Wij zijn elke dag open van acht uur in de ochtend tot acht uur in de avond. Kom snel langs en bespaar veel geld op uw boodschappen!",
+          "questions": [
+            {
+              "id": "q9",
+              "type": "multiple_choice",
+              "question": "Tot wanneer zijn de aanbiedingen geldig?",
+              "options": [
+                "Tot en met woensdag",
+                "Tot en met donderdag",
+                "Tot en met zondag"
+              ],
+              "correctAnswer": "Tot en met woensdag",
+              "explanation": "The text states: 'deze acties zijn alleen geldig van maandag tot en met woensdag.'",
+              "category": "time"
+            },
+            {
+              "id": "q10",
+              "type": "multiple_choice",
+              "question": "Is de volgende zin waar of niet waar? U kunt alleen met een bankpas betalen.",
+              "options": [
+                "Waar",
+                "Niet waar"
+              ],
+              "correctAnswer": "Niet waar",
+              "explanation": "The text says: 'U kunt bij ons betalen met uw bankpas of met contant geld.'",
+              "category": "waar/niet waar"
+            }
+          ]
+        },
+        {
+          "id": "p6",
+          "level": 4,
+          "theme": "Familie",
+          "textType": "uitnodiging",
+          "context": "U leest een kaartje van Fatima. Zij geeft een feestje.",
+          "text": "Lieve familie en vrienden, ik heb goed nieuws! Op vijftien juli word ik dertig jaar. Dat wil ik graag samen met jullie vieren. Ik geef een groot feest bij mij thuis in de tuin. Het feest begint om zeven uur in de avond. Er is muziek en we gaan samen lekker eten. Mijn man maakt soep en ik bak een grote taart. De kinderen kunnen spelen in de speeltuin naast ons huis. Jullie hoeven geen cadeaus mee te nemen. Ik vind het al fijn als jullie er zijn. Willen jullie mij voor één juli laten weten of je komt? Je kunt mij bellen of een bericht sturen op mijn telefoon. Mijn nummer is nul-zes-negen-acht-zeven-zes. Ik hoop dat iedereen kan komen op mijn verjaardag. Tot dan! Veel liefs van Fatima.",
+          "questions": [
+            {
+              "id": "q11",
+              "type": "multiple_choice",
+              "question": "Hoe oud wordt Fatima op vijftien juli?",
+              "options": [
+                "Vijftien jaar",
+                "Dertig jaar",
+                "Zestig jaar"
+              ],
+              "correctAnswer": "Dertig jaar",
+              "explanation": "The text states: 'Op vijftien juli word ik dertig jaar.'",
+              "category": "detail"
+            },
+            {
+              "id": "q12",
+              "type": "multiple_choice",
+              "question": "Wat moeten de mensen doen voor één juli?",
+              "options": [
+                "Een cadeau kopen",
+                "Een taart bakken",
+                "Laten weten of ze komen"
+              ],
+              "correctAnswer": "Laten weten of ze komen",
+              "explanation": "The text asks: 'Willen jullie mij voor één juli laten weten of je komt?'",
+              "category": "instruction"
+            }
+          ]
+        },
+        {
+          "id": "p7",
+          "level": 4,
+          "theme": "Sociale contacten",
+          "textType": "brief",
+          "context": "U leest een brief van een buurman aan de bewoners van de flat.",
+          "text": "Beste buren, mijn naam is Mark en ik woon op nummer twee-en-veertig. Ik schrijf deze brief omdat ik volgende week ga verhuizen naar een andere stad. Op woensdag komt er een grote vrachtwagen bij de flat. De vrachtwagen staat de hele dag voor de ingang. Het spijt mij als u daar last van heeft. Ik moet mijn oude meubels naar buiten brengen. Heeft u interesse in een gratis kast of een tafel? Ze zijn nog heel netjes. U mag ze gratis ophalen bij mij in de middag. Ik wil ook mijn buren bedanken voor de fijne tijd in deze flat. Ik heb hier vijf jaar met veel plezier gewoond. Kom gerust even langs voor een kopje thee en een praatje. Met vriendelijke groet van uw buurman Mark.",
+          "questions": [
+            {
+              "id": "q13",
+              "type": "multiple_choice",
+              "question": "Waarom staat de vrachtwagen voor de ingang?",
+              "options": [
+                "Mark gaat verhuizen",
+                "De vrachtwagen brengt meubels",
+                "Mark gaat de flat schoonmaken"
+              ],
+              "correctAnswer": "Mark gaat verhuizen",
+              "explanation": "The text says: 'Ik schrijf deze brief omdat ik volgende week ga verhuizen...'",
+              "category": "purpose"
+            },
+            {
+              "id": "q14",
+              "type": "multiple_choice",
+              "question": "Wat kunnen de buren gratis ophalen bij Mark?",
+              "options": [
+                "Een vrachtwagen",
+                "Een kast of een tafel",
+                "Een kopje thee"
+              ],
+              "correctAnswer": "Een kast of een tafel",
+              "explanation": "The text states: 'Heeft u interesse in een gratis kast of een tafel? ... U mag ze gratis ophalen.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p8",
+          "level": 4,
+          "theme": "Vrije tijd",
+          "textType": "advertentie",
+          "context": "U leest een tekst over een sportclub in de buurt.",
+          "text": "Wilt u meer bewegen en gezond blijven? Kom dan sporten bij Sportclub Fit! Wij zijn een gezellige club voor jong en oud. U kunt bij ons elke dag fitnessen of zwemmen. In de ochtend zijn er speciale lessen voor mensen boven de zestig jaar. Deze lessen zijn rustig en goed voor de spieren. In de avond zijn er lessen voor mensen die hard willen werken. Een abonnement voor één maand kost dertig euro. Als u een jaar blijft, krijgt u twee maanden gratis. Dat is een heel goede aanbieding. U krijgt ook een gratis flesje water bij elke les. Onze sportclub is dichtbij het station en de bus stopt voor de deur. Kom morgen langs voor een gratis proefles. U hoeft zich niet van tevoren aan te melden. Tot snel!",
+          "questions": [
+            {
+              "id": "q15",
+              "type": "multiple_choice",
+              "question": "Voor wie zijn de sportlessen in de ochtend?",
+              "options": [
+                "Voor kinderen",
+                "Voor mensen boven de zestig jaar",
+                "Alleen voor vrouwen"
+              ],
+              "correctAnswer": "Voor mensen boven de zestig jaar",
+              "explanation": "The text says: 'In de ochtend zijn er speciale lessen voor mensen boven de zestig jaar.'",
+              "category": "detail"
+            },
+            {
+              "id": "q16",
+              "type": "multiple_choice",
+              "question": "Is de volgende zin waar of niet waar? U moet zich aanmelden voor de proefles.",
+              "options": [
+                "Waar",
+                "Niet waar"
+              ],
+              "correctAnswer": "Niet waar",
+              "explanation": "The text says: 'U hoeft zich niet van tevoren aan te melden.'",
+              "category": "waar/niet waar"
+            }
+          ]
+        },
+        {
+          "id": "p9",
+          "level": 4,
+          "theme": "Werk en administratie",
+          "textType": "mededeling",
+          "context": "U leest een tekst over regels op het werk bij een schoonmaakbedrijf.",
+          "text": "Beste medewerkers, vanaf volgende maand zijn er nieuwe regels bij ons schoonmaakbedrijf. Iedereen moet voortaan een blauw T-shirt dragen met het logo van het bedrijf. U krijgt twee shirts gratis van de baas. Als u meer shirts wilt, moet u vijf euro per shirt betalen. Het is belangrijk dat u op tijd begint met uw werk. De ochtendploeg begint om zeven uur precies. De avondploeg werkt van zes uur tot tien uur. Bent u te laat? Dan moet u dit direct melden bij uw manager. U mag niet bellen met uw eigen telefoon tijdens het werk. Alleen in de pauze mag u uw telefoon gebruiken. De pauze duurt dertig minuten. Heeft u vragen over de nieuwe regels? Kom dan naar de vergadering op aanstaande vrijdagmiddag om drie uur in de kantine. Uw aanwezigheid is verplicht.",
+          "questions": [
+            {
+              "id": "q17",
+              "type": "multiple_choice",
+              "question": "Welke kleur T-shirt moeten de medewerkers dragen?",
+              "options": [
+                "Rood",
+                "Blauw",
+                "Wit"
+              ],
+              "correctAnswer": "Blauw",
+              "explanation": "The text states: 'Iedereen moet voortaan een blauw T-shirt dragen.'",
+              "category": "detail"
+            },
+            {
+              "id": "q18",
+              "type": "multiple_choice",
+              "question": "Wanneer mag u uw eigen telefoon gebruiken?",
+              "options": [
+                "Tijdens het schoonmaken",
+                "Als de manager er niet is",
+                "Alleen in de pauze"
+              ],
+              "correctAnswer": "Alleen in de pauze",
+              "explanation": "The text says: 'Alleen in de pauze mag u uw telefoon gebruiken.'",
+              "category": "detail"
+            },
+            {
+              "id": "q19",
+              "type": "multiple_choice",
+              "question": "Waar is de vergadering op vrijdagmiddag?",
+              "options": [
+                "Op het station",
+                "In de kantine",
+                "Buiten bij de bus"
+              ],
+              "correctAnswer": "In de kantine",
+              "explanation": "The text states: 'Kom dan naar de vergadering op aanstaande vrijdagmiddag om drie uur in de kantine.'",
+              "category": "location"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A1 Leesexamen Training: Naar Nederland 6-April 2",
+      "description": "Dit examen bereidt u voor op het officiële basisexamen inburgering. Het bevat teksten over werk, familie, wonen en transport op A1 niveau.",
+      "timerMinutes": 35,
+      "startMessage": "Welkom. We gaan oefenen voor het A1 Leesexamen. Dit is op niveau van het boek Naar Nederland en vergelijkbaar met het echte examen.",
+      "passages": [
+        {
+          "id": "p1",
+          "level": 3,
+          "theme": "Wonen",
+          "textType": "e-mail",
+          "context": "U leest een e-mail van Piet aan Anna over een huis.",
+          "text": "Beste Anna, ik zie een mooi huis voor jou. Het huis staat in het centrum van de stad. Het is een groot huis met drie kamers. Er is ook een kleine tuin bij. De keuken is modern en het toilet is nieuw. De huur is achthonderd vijftig euro per maand. Dat is zonder gas en licht. Je moet ook betalen voor het water. Het huis is vrij vanaf één juli. Je kunt morgen komen kijken om tien uur in de ochtend. Bel je mij vandaag nog? Mijn telefoonnummer is nul zes, één twee, drie vier, vijf zes, zeven acht. Ik hoor het graag van je. Groetjes van Piet.",
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple_choice",
+              "question": "Waar staat het huis?",
+              "options": [
+                "In een dorp",
+                "In het centrum van de stad",
+                "Naast het station"
+              ],
+              "correctAnswer": "In het centrum van de stad",
+              "explanation": "The text states: 'Het huis staat in het centrum van de stad.'",
+              "category": "detail"
+            },
+            {
+              "id": "q2",
+              "type": "multiple_choice",
+              "question": "Wat zit niet in de huurprijs?",
+              "options": [
+                "De tuin",
+                "De keuken",
+                "Gas en licht"
+              ],
+              "correctAnswer": "Gas en licht",
+              "explanation": "The text says the rent is 'zonder gas en licht' (without gas and light).",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p2",
+          "level": 3,
+          "theme": "Werk",
+          "textType": "advertentie",
+          "context": "U leest een advertentie voor een baan op een kantoor.",
+          "text": "Wij zoeken een nieuwe collega voor ons kantoor. Wij zoeken een man of een vrouw voor schoonmaakwerk. Je maakt de bureaus en de ramen schoon. Je werkt van maandag tot en met vrijdag. De werktijd is vroeg in de ochtend. Je begint om zes uur en je stopt om negen uur. Je werkt vijftien uur per week. Je verdient dertien euro per uur. Je krijgt ook geld voor de reiskosten. Heb je ervaring met schoonmaken? Dat is heel goed. Wil je deze baan? Stuur dan een e-mail naar meneer Bakker. Zijn adres is info-at-kantoor-punt-nl. Hij wil graag met je praten op kantoor. Kom je volgende week dinsdag langs voor een gesprek?",
+          "questions": [
+            {
+              "id": "q3",
+              "type": "multiple_choice",
+              "question": "Hoeveel uur per week werkt de nieuwe collega?",
+              "options": [
+                "Zes uur",
+                "Dertien uur",
+                "Vijftien uur"
+              ],
+              "correctAnswer": "Vijftien uur",
+              "explanation": "The text explicitly states: 'Je werkt vijftien uur per week.'",
+              "category": "detail"
+            },
+            {
+              "id": "q4",
+              "type": "multiple_choice",
+              "question": "Hoe laat begint het werk?",
+              "options": [
+                "Om zes uur in de ochtend",
+                "Om negen uur in de ochtend",
+                "Om drie uur in de middag"
+              ],
+              "correctAnswer": "Om zes uur in de ochtend",
+              "explanation": "The text mentions: 'Je begint om zes uur.'",
+              "category": "time"
+            }
+          ]
+        },
+        {
+          "id": "p3",
+          "level": 3,
+          "theme": "Gezondheid",
+          "textType": "brief",
+          "context": "U leest een bericht van de huisarts over afspraken maken.",
+          "text": "Beste patiënten, de huisartsenpost heeft nieuwe regels. De dokter is elke dag aanwezig van acht uur tot vijf uur. Wilt u een afspraak maken? Bel dan in de ochtend tussen acht uur en tien uur. De assistente helpt u dan aan de telefoon. Heeft u veel pijn? Dan kunt u direct komen. Voor een gewoon bezoek komt u in de middag na twee uur. Op woensdag is de praktijk dicht vanaf twaalf uur. Dan is er een andere dokter voor spoed. Het nummer voor spoed is nul drie nul, vier vier, vijf vijf. Neem altijd uw verzekeringspas mee naar de afspraak. U moet ook uw legitimatiebewijs laten zien aan de balie. Tot ziens in de praktijk.",
+          "questions": [
+            {
+              "id": "q5",
+              "type": "multiple_choice",
+              "question": "Wanneer moet u bellen voor een afspraak?",
+              "options": [
+                "Tussen 08:00 en 10:00 uur",
+                "Tussen 12:00 en 14:00 uur",
+                "Tussen 14:00 en 17:00 uur"
+              ],
+              "correctAnswer": "Tussen 08:00 en 10:00 uur",
+              "explanation": "The text says: 'Bel dan in de ochtend tussen acht uur en tien uur.'",
+              "category": "time"
+            },
+            {
+              "id": "q6",
+              "type": "multiple_choice",
+              "question": "Wat moet u meenemen naar de dokter?",
+              "options": [
+                "Geld voor de dokter",
+                "Uw verzekeringspas en legitimatiebewijs",
+                "Een brief van de apotheek"
+              ],
+              "correctAnswer": "Uw verzekeringspas en legitimatiebewijs",
+              "explanation": "The text states: 'Neem altijd uw verzekeringspas mee... U moet ook uw legitimatiebewijs laten zien.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p4",
+          "level": 3,
+          "theme": "Transport",
+          "textType": "mededeling",
+          "context": "U leest een mededeling op het treinstation.",
+          "text": "Let op, reizigers op station Utrecht Centraal. Er is een probleem met de treinen naar Amsterdam. De trein van tien over tien gaat niet rijden. Er is een kapotte bovenleiding op het spoor. De trein naar Rotterdam vertrekt nu van spoor negen in plaats van spoor vier. Wilt u toch naar Amsterdam reizen? U kunt de bus nemen voor het station. De bus vertrekt elke vijftien minuten bij de hoofduitgang. Uw treinkaartje is ook geldig in de bus. U hoeft geen nieuw kaartje te kopen bij de automaat. De reis met de bus duurt dertig minuten langer dan met de trein. Onze excuses voor het wachten. Kijk op de schermen voor meer informatie over uw reis.",
+          "questions": [
+            {
+              "id": "q7",
+              "type": "multiple_choice",
+              "question": "Van welk spoor gaat de trein naar Rotterdam?",
+              "options": [
+                "Spoor vier",
+                "Spoor negen",
+                "Spoor tien"
+              ],
+              "correctAnswer": "Spoor negen",
+              "explanation": "The text says: 'De trein naar Rotterdam vertrekt nu van spoor negen.'",
+              "category": "detail"
+            },
+            {
+              "id": "q8",
+              "type": "multiple_choice",
+              "question": "Is het treinkaartje geldig voor de bus?",
+              "options": [
+                "Waar",
+                "Niet waar"
+              ],
+              "correctAnswer": "Waar",
+              "explanation": "The text states: 'Uw treinkaartje is ook geldig in de bus.'",
+              "category": "true_false"
+            }
+          ]
+        },
+        {
+          "id": "p5",
+          "level": 4,
+          "theme": "Onderwijs",
+          "textType": "schoolbericht",
+          "context": "U leest een bericht van de school over een uitje.",
+          "text": "Beste ouders en verzorgers, volgende week gaan de kinderen van groep drie naar de dierentuin. We gaan met de grote bus op maandag twaalf april. De bus vertrekt om half negen bij de school. Wilt u uw kind op tijd brengen? De kinderen moeten zelf eten en drinken meenemen. Geef een tas mee met brood en fruit. Een flesje water is ook belangrijk. De school betaalt de entree voor het park. U hoeft geen geld aan uw kind mee te geven. We zijn om vier uur in de middag weer terug op het schoolplein. Heeft u vragen over deze dag? Kom dan even langs bij de juf of meester. We hopen op een fijne en zonnige dag voor alle kinderen.",
+          "questions": [
+            {
+              "id": "q9",
+              "type": "multiple_choice",
+              "question": "Wat moeten de kinderen meenemen?",
+              "options": [
+                "Geld voor de entree",
+                "Eten en drinken",
+                "Een boek over dieren"
+              ],
+              "correctAnswer": "Eten en drinken",
+              "explanation": "The text says: 'De kinderen moeten zelf eten en drinken meenemen.'",
+              "category": "detail"
+            },
+            {
+              "id": "q10",
+              "type": "multiple_choice",
+              "question": "Hoe laat zijn de kinderen weer op school?",
+              "options": [
+                "Om half negen",
+                "Om twaalf uur",
+                "Om vier uur"
+              ],
+              "correctAnswer": "Om vier uur",
+              "explanation": "The text mentions: 'We zijn om vier uur in de middag weer terug.'",
+              "category": "time"
+            }
+          ]
+        },
+        {
+          "id": "p6",
+          "level": 4,
+          "theme": "Familie",
+          "textType": "dialoog",
+          "context": "Sam en Eva praten over een verjaardagsfeest.",
+          "text": "Hoi Eva, weet jij dat onze moeder bijna jarig is? Zij wordt volgende week zestig jaar. Dat is een bijzondere leeftijd. Ik wil graag een groot feest geven voor haar. Het feest is op zaterdagavond bij mij thuis. Ik nodig de hele familie uit. Ook de buren en haar vriendinnen komen langs. We eten lekkere hapjes en we drinken sap en koffie. Kun jij helpen met de voorbereiding? Ik koop de slingers en de ballonnen. Kun jij een grote taart bakken met chocolade? Dat vindt moeder erg lekker. We kopen samen een cadeau. Ik denk aan een mooie tas of een boek. Wat vind jij een goed idee? Bel je mij vanavond om acht uur? Dan maken we een plan voor het feest.",
+          "questions": [
+            {
+              "id": "q11",
+              "type": "multiple_choice",
+              "question": "Hoe oud wordt de moeder van Sam en Eva?",
+              "options": [
+                "Vierig jaar",
+                "Vijftig jaar",
+                "Zestig jaar"
+              ],
+              "correctAnswer": "Zestig jaar",
+              "explanation": "The text states: 'Zij wordt volgende week zestig jaar.'",
+              "category": "detail"
+            },
+            {
+              "id": "q12",
+              "type": "multiple_choice",
+              "question": "Wat moet Eva doen voor het feest?",
+              "options": [
+                "Slingers kopen",
+                "Een chocoladetaart bakken",
+                "De buren uitnodigen"
+              ],
+              "correctAnswer": "Een chocoladetaart bakken",
+              "explanation": "Sam asks: 'Kun jij een grote taart bakken met chocolade?'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p7",
+          "level": 4,
+          "theme": "Geld",
+          "textType": "advertentie",
+          "context": "U leest aanbiedingen van een supermarkt.",
+          "text": "Welkom bij supermarkt De Markt. Deze week hebben wij veel goede aanbiedingen voor u. De verse melk is nu heel goedkoop. U betaalt één euro voor twee pakken. Ook de kaas uit Nederland is in de aanbieding. Een kilo kaas kost nu maar acht euro. Dat is een goede prijs. Wilt u vers brood eten? Ons bruinbrood is vandaag twee euro per stuk. Als u drie broden koopt, krijgt u het vierde brood gratis. Deze actie is alleen geldig op donderdag en vrijdag. De winkel is elke dag open van acht uur tot acht uur. Op zondag zijn wij open van twaalf uur tot zes uur. Kom snel langs voor uw boodschappen. Wij zien u graag in onze mooie winkel.",
+          "questions": [
+            {
+              "id": "q13",
+              "type": "multiple_choice",
+              "question": "Wanneer is de actie voor het brood?",
+              "options": [
+                "Elke dag van de week",
+                "Alleen op zondag",
+                "Alleen op donderdag en vrijdag"
+              ],
+              "correctAnswer": "Alleen op donderdag en vrijdag",
+              "explanation": "The text says: 'Deze actie is alleen geldig op donderdag en vrijdag.'",
+              "category": "time"
+            },
+            {
+              "id": "q14",
+              "type": "multiple_choice",
+              "question": "Is de winkel op zondag open?",
+              "options": [
+                "Waar",
+                "Niet waar"
+              ],
+              "correctAnswer": "Waar",
+              "explanation": "The text states: 'Op zondag zijn wij open van twaalf uur tot zes uur.'",
+              "category": "true_false"
+            }
+          ]
+        },
+        {
+          "id": "p8",
+          "level": 4,
+          "theme": "Communicatie",
+          "textType": "mededeling",
+          "context": "U leest een bericht over een cursus Nederlands.",
+          "text": "Wilt u beter Nederlands leren spreken en schrijven? Kom dan naar de taalschool in de buurt. Onze nieuwe cursus begint in de maand september. De lessen zijn voor mensen op niveau A1 en A2. U leert woorden over werk, wonen en de dokter. De les is twee keer per week op maandag en woensdag. De lestijd is van zeven uur tot negen uur in de avond. Een cursus van tien lessen kost honderd vijftig euro. U krijgt een boek en een schrift van de docent. U kunt zich inschrijven via onze website of bij de balie. U moet direct betalen bij de eerste les. Er is plaats voor twaalf studenten in de klas. Wacht niet te lang met uw inschrijving.",
+          "questions": [
+            {
+              "id": "q15",
+              "type": "multiple_choice",
+              "question": "Op welke dagen is de les?",
+              "options": [
+                "Op dinsdag en donderdag",
+                "Op maandag en woensdag",
+                "Elke avond"
+              ],
+              "correctAnswer": "Op maandag en woensdag",
+              "explanation": "The text specifies: 'De les is twee keer per week op maandag en woensdag.'",
+              "category": "time"
+            },
+            {
+              "id": "q16",
+              "type": "multiple_choice",
+              "question": "Hoeveel studenten kunnen in de klas?",
+              "options": [
+                "Tien studenten",
+                "Twaalf studenten",
+                "Honderd vijftig studenten"
+              ],
+              "correctAnswer": "Twaalf studenten",
+              "explanation": "The text says: 'Er is plaats voor twaalf studenten in de klas.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p9",
+          "level": 4,
+          "theme": "Vrije tijd",
+          "textType": "brief",
+          "context": "U leest een brief van de bibliotheek aan meneer Janssen.",
+          "text": "Geachte heer Janssen, u bent al drie jaar lid van de bibliotheek. Wij zien dat uw bibliotheekpas bijna stopt. Wilt u de pas nog een jaar gebruiken? Dan moet u twenitg euro betalen voor het nieuwe jaar. U kunt betalen bij de automaat in de bibliotheek. U kunt ook betalen via de computer op onze website. Na de betaling is uw pas weer één jaar geldig. Met deze pas kunt u boeken, films en tijdschriften lenen. U mag de boeken drie weken houden. Brengt u de boeken te laat terug? Dan moet u extra geld betalen. Voor kinderen tot achttien jaar is de pas gratis. De bibliotheek is open van maandag tot en met zaterdag. Op zondag zijn wij de hele dag gesloten. Met vriendelijke groet, de bibliotheek.",
+          "questions": [
+            {
+              "id": "q17",
+              "type": "multiple_choice",
+              "question": "Hoeveel kost de pas voor een jaar?",
+              "options": [
+                "Drie euro",
+                "Tien euro",
+                "Twintig euro"
+              ],
+              "correctAnswer": "Twintig euro",
+              "explanation": "The text states: 'Dan moet u twintig euro betalen voor het nieuwe jaar.'",
+              "category": "money"
+            },
+            {
+              "id": "q18",
+              "type": "multiple_choice",
+              "question": "Hoe lang mag u een boek houden?",
+              "options": [
+                "Eén week",
+                "Drie weken",
+                "Eén jaar"
+              ],
+              "correctAnswer": "Drie weken",
+              "explanation": "The text says: 'U mag de boeken drie weken houden.'",
+              "category": "time"
+            },
+            {
+              "id": "q19",
+              "type": "multiple_choice",
+              "question": "Is de pas gratis voor kinderen?",
+              "options": [
+                "Waar",
+                "Niet waar"
+              ],
+              "correctAnswer": "Waar",
+              "explanation": "The text mentions: 'Voor kinderen tot achttien jaar is de pas gratis.'",
+              "category": "true_false"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A1 Leesexamen Training: Naar Nederland 6-April 3",
+      "description": "Dit examen bereidt u voor op het officiële basisexamen inburgering. Het bevat teksten over werk, familie, wonen en transport op A1 niveau met een hogere moeilijkheidsgraad.",
+      "timerMinutes": 35,
+      "startMessage": "Welkom. We gaan oefenen voor het A1 Leesexamen. Dit is op niveau van het boek Naar Nederland en vergelijkbaar met het echte examen.",
+      "passages": [
+        {
+          "id": "p1",
+          "level": 4,
+          "theme": "Wonen",
+          "textType": "email",
+          "context": "U leest een e-mail van een verhuurder over een nieuwe woning.",
+          "text": "Beste meneer Jansen, ik heb goed nieuws voor u. Het huis aan de Kerkstraat is klaar. U kunt de sleutel op maandag ophalen bij mijn kantoor. Dat kan tussen negen uur en twaalf uur in de ochtend. Het huis heeft twee grote slaapkamers en een kleine tuin. De huur is achthonderd euro per maand. Dat is inclusief water en elektriciteit. U moet de huur voor de eerste dag van de maand betalen. Let op: roken in het huis is niet toegestaan. Er is ook een schuur voor uw fiets achter het huis. Wilt u de papieren voor de verzekering ook meenemen? Ik zie u graag aanstaande maandag op het kantoor. Met vriendelijke groet, de verhuurder van de woning.",
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple_choice",
+              "question": "Wanneer kan meneer Jansen de sleutel ophalen?",
+              "options": [
+                "In de ochtend",
+                "In de middag",
+                "In de avond"
+              ],
+              "correctAnswer": "In de ochtend",
+              "explanation": "The text states: 'Dat kan tussen negen uur en twaalf uur in de ochtend.' This confirms the time is before noon.",
+              "category": "time"
+            },
+            {
+              "id": "q2",
+              "type": "multiple_choice",
+              "question": "Wat zit er in de prijs van de huur?",
+              "options": [
+                "Alleen de tuin",
+                "Water en elektriciteit",
+                "De verzekering van het huis"
+              ],
+              "correctAnswer": "Water en elektriciteit",
+              "explanation": "The text mentions: 'De huur is achthonderd euro per maand. Dat is inclusief water en elektriciteit.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p2",
+          "level": 4,
+          "theme": "Werk",
+          "textType": "advertentie",
+          "context": "U leest een advertentie voor een baan bij een hotel.",
+          "text": "Hotel De Zon zoekt een nieuwe medewerker voor de schoonmaak. Wij zoeken een man of vrouw die graag hard werkt. Uw werkdag begint om acht uur in de ochtend en duurt tot twee uur in de middag. U maakt de kamers, de badkamers en de ramen schoon. Wij zoeken iemand voor drie dagen per week: dinsdag, donderdag en vrijdag. U krijgt tien euro per uur. Ervaring is niet nodig, wij leren u alles. Wij vinden het belangrijk dat u op tijd komt en netjes werkt. Heeft u interesse in deze baan? Bel dan naar mevrouw Bakker. Haar telefoonnummer is nul-zes-een-twee-drie-vier-vijf. U kunt bellen tussen vijf uur en zes uur in de middag voor een korte afspraak.",
+          "questions": [
+            {
+              "id": "q3",
+              "type": "multiple_choice",
+              "question": "Hoeveel uur per dag moet u werken?",
+              "options": [
+                "Drie uur",
+                "Zes uur",
+                "Acht uur"
+              ],
+              "correctAnswer": "Zes uur",
+              "explanation": "The text says work starts at 08:00 and ends at 14:00. Eight to two is exactly six hours.",
+              "category": "numbers"
+            },
+            {
+              "id": "q4",
+              "type": "multiple_choice",
+              "question": "Wanneer moet u bellen voor de baan?",
+              "options": [
+                "Tussen 08:00 en 14:00 uur",
+                "In de ochtend",
+                "In de middag"
+              ],
+              "correctAnswer": "In de middag",
+              "explanation": "The text says: 'U kunt bellen tussen vijf uur en zes uur in de middag'.",
+              "category": "time"
+            }
+          ]
+        },
+        {
+          "id": "p3",
+          "level": 4,
+          "theme": "Gezondheid",
+          "textType": "brief",
+          "context": "U leest een brief van de dokter over een medische afspraak.",
+          "text": "Beste patiënt, u heeft een afspraak bij de dokter op woensdag drie mei. De afspraak is om kwart voor tien in de ochtend. U komt voor controle van uw rug. De dokter wil ook graag uw bloed onderzoeken. Daarom mag u voor de afspraak niet eten. Drinken van water mag wel. Vergeet niet om uw legitimatiebewijs en uw zorgpas mee te nemen naar de praktijk. Bent u ziek of kunt u niet komen? Bel ons dan minimaal een dag van tevoren. Dan maken wij een nieuwe afspraak voor u. Als u te laat bent, moet u helaas een boete betalen. De praktijk is gesloten tussen twaalf uur en een uur voor de pauze. Met vriendelijke groet, de assistente.",
+          "questions": [
+            {
+              "id": "q5",
+              "type": "multiple_choice",
+              "question": "Wat mag de patiënt wel doen voor de afspraak?",
+              "options": [
+                "Eten",
+                "Water drinken",
+                "Ziek zijn"
+              ],
+              "correctAnswer": "Water drinken",
+              "explanation": "The text explicitly states: 'Drinken van water mag wel.' regarding the blood test preparation.",
+              "category": "detail"
+            },
+            {
+              "id": "q6",
+              "type": "multiple_choice",
+              "question": "Wanneer moet u bellen als u niet kunt komen?",
+              "options": [
+                "Op woensdag drie mei",
+                "Tijdens de middagpauze",
+                "Eén dag voor de afspraak"
+              ],
+              "correctAnswer": "Eén dag voor de afspraak",
+              "explanation": "The text says: 'Bel ons dan minimaal een dag van tevoren.'",
+              "category": "time"
+            }
+          ]
+        },
+        {
+          "id": "p4",
+          "level": 4,
+          "theme": "Onderwijs",
+          "textType": "schoolbericht",
+          "context": "U leest een bericht van de school van uw kind.",
+          "text": "Beste ouders, volgende week vrijdag gaat de school een dagje uit naar de dierentuin. Wij gaan met de bus naar Rotterdam. De kinderen moeten om acht uur op school zijn. De bus vertrekt precies om kwart over acht. Wilt u uw kind een tas meegeven met gezond eten? Geef ook een flesje water mee. Snoep en frisdrank zijn niet toegestaan in de bus. Wij komen om vijf uur in de middag weer terug bij de school. U kunt uw kind daar ophalen op het plein. De kosten voor dit uitje zijn vijftien euro per kind. U kunt dit bedrag betalen bij de juf of de meester. Doe het geld a.u.b. in een envelop met de naam van uw kind erop.",
+          "questions": [
+            {
+              "id": "q7",
+              "type": "multiple_choice",
+              "question": "Wat mag een kind niet meenemen?",
+              "options": [
+                "Een flesje water",
+                "Een gezonde lunch",
+                "Flesjes frisdrank"
+              ],
+              "correctAnswer": "Flesjes frisdrank",
+              "explanation": "The text states: 'Snoep en frisdrank zijn niet toegestaan in de bus.'",
+              "category": "detail"
+            },
+            {
+              "id": "q8",
+              "type": "multiple_choice",
+              "question": "Hoe moet u betalen voor de dag naar de dierentuin?",
+              "options": [
+                "Via een brief naar de school",
+                "Met geld in een envelop",
+                "Bij de chauffeur van de bus"
+              ],
+              "correctAnswer": "Met geld in een envelop",
+              "explanation": "The text says: 'Doe het geld a.u.b. in een envelop met de naam van uw kind erop.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p5",
+          "level": 5,
+          "theme": "Transport",
+          "textType": "mededeling",
+          "context": "U leest een bericht op het treinstation over werkzaamheden.",
+          "text": "Let op: in het weekend van twaalf en dertien juni rijden er geen treinen tussen Utrecht en Amsterdam. De spoorwegen werken aan het spoor bij het station. Er rijden bussen in plaats van treinen. De bussen vertrekken elke tien minuten vanaf de voorkant van het station. De reis met de bus duurt dertig minuten langer dan met de trein. U moet uw vervoersbewijs laten zien bij de buschauffeur. Reist u met een fiets? De fiets mag dit weekend niet mee in de bus. Voor mensen in een rolstoel zijn er speciale taxi's beschikbaar. Kijk voor de actuele tijden op de website van de trein of op de borden in de hal. Wij wensen u een goede reis ondanks de vertraging. Onze excuses voor de overlast.",
+          "questions": [
+            {
+              "id": "q9",
+              "type": "multiple_choice",
+              "question": "Mag de fiets mee in de bus?",
+              "options": [
+                "Ja, dat mag",
+                "Nee, dat mag niet",
+                "Alleen in de avond"
+              ],
+              "correctAnswer": "Nee, dat mag niet",
+              "explanation": "The text is clear: 'De fiets mag dit weekend niet mee in de bus.'",
+              "category": "negation"
+            },
+            {
+              "id": "q10",
+              "type": "multiple_choice",
+              "question": "Waarom duurt de reis langer?",
+              "options": [
+                "Er rijden geen treinen maar bussen",
+                "Het station is helemaal dicht",
+                "Er zijn te veel mensen op het station"
+              ],
+              "correctAnswer": "Er rijden geen treinen maar bussen",
+              "explanation": "The text explains there are bus replacements: 'De reis met de bus duurt dertig minuten langer dan met de trein.'",
+              "category": "reason"
+            }
+          ]
+        },
+        {
+          "id": "p6",
+          "level": 5,
+          "theme": "Geld",
+          "textType": "advertentie",
+          "context": "U leest een folder van een supermarkt over aanbiedingen.",
+          "text": "Deze week is het feest bij supermarkt De Markt! Wij vieren onze tiende verjaardag. Daarom zijn veel producten heel goedkoop. Een kilo appels kost nu maar één euro. Twee flessen melk kosten samen twee euro. Wilt u vers brood? Alle grote broden zijn nu voor de halve prijs. Deze aanbieding is alleen geldig op maandag en dinsdag. Als u voor meer dan vijftig euro koopt, krijgt u een gratis tas. De winkel is elke dag open van acht uur 's morgens tot acht uur 's avonds. Op zondag gaan wij pas om twaalf uur open. U kunt bij ons betalen met uw pinpas of met contant geld. Wij hopen u deze week te zien in onze winkel. Kom snel, want op is op!",
+          "questions": [
+            {
+              "id": "q11",
+              "type": "multiple_choice",
+              "question": "Wanneer is het brood goedkoper?",
+              "options": [
+                "De hele week",
+                "Alleen op zondag",
+                "Op maandag en dinsdag"
+              ],
+              "correctAnswer": "Op maandag en dinsdag",
+              "explanation": "The text says: 'Deze aanbieding is alleen geldig op maandag en dinsdag.' regarding the bread.",
+              "category": "time"
+            },
+            {
+              "id": "q12",
+              "type": "multiple_choice",
+              "question": "Wanneer gaat de winkel op zondag open?",
+              "options": [
+                "Om 08:00 uur",
+                "Om 12:00 uur",
+                "Om 20:00 uur"
+              ],
+              "correctAnswer": "Om 12:00 uur",
+              "explanation": "The text states: 'Op zondag gaan wij pas om twaalf uur open.'",
+              "category": "time"
+            }
+          ]
+        },
+        {
+          "id": "p7",
+          "level": 5,
+          "theme": "Familie",
+          "textType": "uitnodiging",
+          "context": "U leest een uitnodiging voor een verjaardagsfeest.",
+          "text": "Lieve vrienden en familie, ik word volgende week vijftig jaar. Dat wil ik graag met jullie vieren. Ik geef een groot feest op zaterdagavond twintig augustus. Het feest begint om acht uur en duurt tot middernacht. Het is bij mij thuis in de tuin. Er is muziek, lekker eten en veel drinken. Jullie hoeven geen eten mee te nemen, ik kook voor iedereen. Mijn kinderen maken een lekkere taart met fruit. Heb je een allergie? Laat het mij dan even weten voor woensdag. Ik hoop dat jullie allemaal kunnen komen naar mijn verjaardag. Je mag je man, vrouw of kinderen ook meenemen. Laat je voor vijftien augustus weten of je komt? Ik heb er veel zin in! Veel liefs van Sarah.",
+          "questions": [
+            {
+              "id": "q13",
+              "type": "multiple_choice",
+              "question": "Wie bakt de taart voor het feest?",
+              "options": [
+                "Sarah",
+                "De vrienden",
+                "De kinderen van Sarah"
+              ],
+              "correctAnswer": "De kinderen van Sarah",
+              "explanation": "The sentence proves this: 'Mijn kinderen maken een lekkere taart met fruit.'",
+              "category": "detail"
+            },
+            {
+              "id": "q14",
+              "type": "multiple_choice",
+              "question": "Wanneer moet Sarah weten of je komt?",
+              "options": [
+                "Voor 15 augustus",
+                "Voor 20 augustus",
+                "Op woensdag"
+              ],
+              "correctAnswer": "Voor 15 augustus",
+              "explanation": "The text asks: 'Laat je voor vijftien augustus weten of je komt?'",
+              "category": "time"
+            }
+          ]
+        },
+        {
+          "id": "p8",
+          "level": 5,
+          "theme": "Vrije tijd",
+          "textType": "mededeling",
+          "context": "U leest een bericht in de bibliotheek.",
+          "text": "Welkom in de bibliotheek van de stad. Hier kunt u boeken, tijdschriften en films lenen. Om boeken te lenen heeft u een pasje nodig. Dit pasje kost vijftien euro per jaar. Voor kinderen onder de achttien jaar is het pasje gratis. U mag maximaal tien boeken tegelijk meenemen naar huis. U moet de boeken na drie weken weer terugbrengen naar de bibliotheek. Bent u te laat? Dan moet u vijftig cent per dag betalen. Er zijn ook computers in de bibliotheek. Het gebruik van internet is gratis voor iedereen. In de bibliotheek moet het rustig zijn. U mag hier niet bellen of hard praten. Eten en drinken is alleen toegestaan bij de leestafel bij de ingang. Wij wensen u veel leesplezier.",
+          "questions": [
+            {
+              "id": "q15",
+              "type": "multiple_choice",
+              "question": "Is internet in de bibliotheek duur?",
+              "options": [
+                "Ja, het kost 15 euro",
+                "Nee, het is gratis",
+                "Alleen voor kinderen"
+              ],
+              "correctAnswer": "Nee, het is gratis",
+              "explanation": "The text says: 'Het gebruik van internet is gratis voor iedereen.'",
+              "category": "detail"
+            },
+            {
+              "id": "q16",
+              "type": "multiple_choice",
+              "question": "Waar mag u eten en drinken?",
+              "options": [
+                "Overal in de bibliotheek",
+                "Bij de computers",
+                "Alleen bij de leestafel"
+              ],
+              "correctAnswer": "Alleen bij de leestafel",
+              "explanation": "The text specifies: 'Eten en drinken is alleen toegestaan bij de leestafel bij de ingang.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p9",
+          "level": 5,
+          "theme": "Communicatie",
+          "textType": "brief",
+          "context": "U leest een officiële brief van de gemeente.",
+          "text": "Beste bewoner, u moet binnenkort uw paspoort vernieuwen. Uw oude paspoort is na dertig juni niet meer geldig. U moet hiervoor een afspraak maken bij de gemeente. U kunt de afspraak maken via de website of door te bellen naar nummer veertien nul-tien. Neem naar de afspraak één nieuwe pasfoto mee. De foto moet in kleur zijn en mag niet oud zijn. U moet ook uw oude paspoort inleveren bij de balie. Het nieuwe paspoort kost tachtig euro. U moet dit bedrag direct betalen met uw pinpas. Contant geld accepteren wij niet. Na vijf werkdagen kunt u uw nieuwe paspoort ophalen bij de receptie. U hoeft voor het ophalen geen nieuwe afspraak te maken. Vergeet uw bewijs van betaling niet mee te nemen. De gemeente is geopend van maandag tot en met vrijdag.",
+          "questions": [
+            {
+              "id": "q17",
+              "type": "multiple_choice",
+              "question": "Wat is waar over de pasfoto?",
+              "options": [
+                "De foto mag oud zijn",
+                "De foto moet in kleur zijn",
+                "U heeft twee foto's nodig"
+              ],
+              "correctAnswer": "De foto moet in kleur zijn",
+              "explanation": "The text clearly states: 'De foto moet in kleur zijn and mag niet oud zijn.'",
+              "category": "detail"
+            },
+            {
+              "id": "q18",
+              "type": "multiple_choice",
+              "question": "Hoe kunt u het paspoort betalen?",
+              "options": [
+                "Alleen met de pinpas",
+                "Met contant geld",
+                "Na vijf werkdagen"
+              ],
+              "correctAnswer": "Alleen met de pinpas",
+              "explanation": "The text says: 'U moet dit bedrag direct betalen met uw pinpas. Contant geld accepteren wij niet.'",
+              "category": "money"
+            },
+            {
+              "id": "q19",
+              "type": "multiple_choice",
+              "question": "Moet u een afspraak maken om het paspoort op te halen?",
+              "options": [
+                "Ja, dat moet",
+                "Nee, dat hoeft niet",
+                "Alleen op vrijdag"
+              ],
+              "correctAnswer": "Nee, dat hoeft niet",
+              "explanation": "The text states: 'U hoeft voor het ophalen geen nieuwe afspraak te maken.'",
+              "category": "negation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A1 Leesexamen Training: Naar Nederland 6-April 4",
+      "description": "Dit examen bereidt u voor op het officiële basisexamen inburgering. Het bevat teksten over werk, familie, wonen en transport op A1 niveau.",
+      "timerMinutes": 35,
+      "startMessage": "Welkom. We gaan oefenen voor het A1 Leesexamen. Dit is op niveau van het boek Naar Nederland en vergelijkbaar met het echte examen.",
+      "passages": [
+        {
+          "id": "p1",
+          "level": 4,
+          "theme": "Wonen",
+          "textType": "advertentie",
+          "context": "U zoekt een nieuwe woning. U leest deze advertentie in de krant.",
+          "text": "Wij zoeken een huurder voor ons huis in het centrum van de stad. Het huis is groot en erg licht. Er is een woonkamer en een keuken op de benedenverdieping. Boven zijn drie slaapkamers en een kleine badkamer met een toilet. Het huis heeft ook een tuin achter. De huur is 850 euro per maand. Dat is inclusief water maar exclusief stroom en gas. U moet de borg betalen voor de eerste dag. De borg is 1000 euro. Wij zoeken een rustig gezin zonder honden of katten. De woning is direct beschikbaar. Bel voor een afspraak naar meneer Bakker op nummer 06-12345678. Hij komt op maandag of dinsdag langs voor een gesprek.",
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple_choice",
+              "question": "Hoeveel slaapkamers heeft het huis?",
+              "options": [
+                "Twee slaapkamers",
+                "Drie slaapkamers",
+                "Vier slaapkamers"
+              ],
+              "correctAnswer": "Drie slaapkamers",
+              "explanation": "The correct answer is supported by the sentence: 'Boven zijn drie slaapkamers en een kleine badkamer...'",
+              "category": "detail"
+            },
+            {
+              "id": "q2",
+              "type": "multiple_choice",
+              "question": "Is de huur van 850 euro inclusief gas?",
+              "options": [
+                "Ja",
+                "Nee"
+              ],
+              "correctAnswer": "Nee",
+              "explanation": "The text states the rent is 'exclusief stroom en gas', which means gas is not included in the 850 euro.",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p2",
+          "level": 4,
+          "theme": "Werk",
+          "textType": "advertentie",
+          "context": "U zoekt werk. U ziet dit bericht op een bord bij de supermarkt.",
+          "text": "Schoonmaakbedrijf 'Proper' zoekt nieuwe collega's. Wij zoeken mensen voor het schoonmaken van een kantoorgebouw in Utrecht. Het werk is voor vijftien uur per week. U werkt in de avond van zes uur tot negen uur. Dat is van maandag tot en met vrijdag. Het salaris is twaalf euro per uur. U krijgt ook geld voor de bus of de trein. U moet netjes zijn en u spreekt een beetje Nederlands. Heeft u interesse in deze baan? Stuur dan een korte brief naar mevrouw De Wit. U kunt ook een e-mail sturen naar info@proper.nl. Wij bellen u daarna voor een gesprek op ons kantoor. Wij zoeken mensen die volgende week al kunnen beginnen.",
+          "questions": [
+            {
+              "id": "q3",
+              "type": "multiple_choice",
+              "question": "Hoe laat begint het werk in de avond?",
+              "options": [
+                "Om vijf uur",
+                "Om zes uur",
+                "Om negen uur"
+              ],
+              "correctAnswer": "Om zes uur",
+              "explanation": "The text says: 'U werkt in de avond van zes uur tot negen uur.'",
+              "category": "time"
+            },
+            {
+              "id": "q4",
+              "type": "multiple_choice",
+              "question": "Hoe kunt u solliciteren voor deze baan?",
+              "options": [
+                "Bellen naar mevrouw De Wit",
+                "Langsgaan bij het kantoor",
+                "Een e-mail of brief sturen"
+              ],
+              "correctAnswer": "Een e-mail of brief sturen",
+              "explanation": "The text suggests: 'Stuur dan een korte brief... U kunt ook een e-mail sturen.'",
+              "category": "communication"
+            }
+          ]
+        },
+        {
+          "id": "p3",
+          "level": 4,
+          "theme": "Familie",
+          "textType": "uitnodiging",
+          "context": "U ontvangt een kaart van uw buren.",
+          "text": "Beste buren, wij geven een feestje! Onze zoon Thomas is jarig. Hij wordt aanstaande zaterdag zes jaar oud. Wij vieren zijn verjaardag bij ons thuis. Het feest begint om twee uur 's middags en duurt tot vijf uur. Er is taart, sap en lekker eten voor de kinderen. De ouders kunnen koffie of thee drinken in de tuin. Thomas vindt auto's en boeken erg leuk, maar een cadeau is niet verplicht. Wij vinden het vooral gezellig als jullie komen. Laat je het voor donderdag weten aan mijn vrouw? Onze naam staat op de deur bij nummer 14. Wij hopen jullie zaterdag te zien. Groeten van de familie Mulder.",
+          "questions": [
+            {
+              "id": "q5",
+              "type": "multiple_choice",
+              "question": "Hoe oud wordt Thomas op zijn verjaardag?",
+              "options": [
+                "Vier jaar",
+                "Vijf jaar",
+                "Zes jaar"
+              ],
+              "correctAnswer": "Zes jaar",
+              "explanation": "The text states: 'Hij wordt aanstaande zaterdag zes jaar oud.'",
+              "category": "detail"
+            },
+            {
+              "id": "q6",
+              "type": "multiple_choice",
+              "question": "Waar is het feest van de familie Mulder?",
+              "options": [
+                "In een restaurant",
+                "Bij hen thuis",
+                "Op de school van Thomas"
+              ],
+              "correctAnswer": "Bij hen thuis",
+              "explanation": "The text says: 'Wij vieren zijn verjaardag bij ons thuis.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p4",
+          "level": 4,
+          "theme": "Geld",
+          "textType": "mededeling",
+          "context": "U bent in de supermarkt en ziet een briefje bij de kassa.",
+          "text": "Let op! Vandaag hebben wij speciale aanbiedingen bij supermarkt De Spar. De appels zijn erg goedkoop. Een kilo kost nu maar één euro en vijftig cent. Ook het brood is in de aanbieding. Twee broden kosten samen drie euro. U mag kiezen tussen wit brood en bruin brood. Let op: u kunt alleen met uw bankpas betalen bij de kassa. Wij accepteren geen contant geld meer in deze winkel. Dat is veiliger voor onze medewerkers. Heeft u een klantenkaart? Dan krijgt u nog extra korting op de groente en het fruit. Vergeet uw eigen tas niet mee te nemen. Een plastic tasje kost dertig cent. Wij wensen u een fijne dag en veel plezier met winkelen.",
+          "questions": [
+            {
+              "id": "q7",
+              "type": "multiple_choice",
+              "question": "Hoeveel kosten twee broden vandaag?",
+              "options": [
+                "Eén euro vijftig",
+                "Twee euro",
+                "Drie euro"
+              ],
+              "correctAnswer": "Drie euro",
+              "explanation": "The text explicitly states: 'Twee broden kosten samen drie euro.'",
+              "category": "money"
+            },
+            {
+              "id": "q8",
+              "type": "multiple_choice",
+              "question": "Kunt u in deze winkel met contant geld betalen?",
+              "options": [
+                "Waar",
+                "Niet waar"
+              ],
+              "correctAnswer": "Niet waar",
+              "explanation": "The text says: 'Wij accepteren geen contant geld meer in deze winkel.'",
+              "category": "negation"
+            }
+          ]
+        },
+        {
+          "id": "p5",
+          "level": 4,
+          "theme": "Transport",
+          "textType": "bericht",
+          "context": "U staat op het station en leest de informatie op het scherm.",
+          "text": "Beste reizigers, er rijden vandaag geen treinen tussen Rotterdam en Den Haag. Er is een groot probleem met de rails op dit traject. De reparatie duurt de hele middag. Er rijden bussen in plaats van treinen. De bussen vertrekken elke tien minuten voor de hoofduitgang van het station. De reis met de bus duurt ongeveer twintig minuten langer dan met de trein. Uw treinkaartje is ook geldig voor de bus. U hoeft geen nieuw kaartje te kopen. Wilt u naar een andere stad reizen? Kijk dan op de website voor de juiste vertrektijden. Onze medewerkers op het perron dragen gele jassen. Zij kunnen al uw vragen beantwoorden over de vertraging en de bussen.",
+          "questions": [
+            {
+              "id": "q9",
+              "type": "multiple_choice",
+              "question": "Waarom rijden er geen treinen naar Den Haag?",
+              "options": [
+                "Er is geen personeel",
+                "Er is een probleem met de rails",
+                "Het is te druk op het station"
+              ],
+              "correctAnswer": "Er is een probleem met de rails",
+              "explanation": "The text mentions: 'Er is een groot probleem met de rails op dit traject.'",
+              "category": "reason"
+            },
+            {
+              "id": "q10",
+              "type": "multiple_choice",
+              "question": "Moet u een nieuw kaartje kopen voor de bus?",
+              "options": [
+                "Ja",
+                "Nee"
+              ],
+              "correctAnswer": "Nee",
+              "explanation": "The text says: 'Uw treinkaartje is ook geldig voor de bus. U hoeft geen nieuw kaartje te kopen.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p6",
+          "level": 5,
+          "theme": "Tijd",
+          "textType": "schoolbericht",
+          "context": "U heeft een kind op de basisschool. U leest de brief van de school.",
+          "text": "Beste ouders, de schooltijden veranderen vanaf volgende maand. De school begint elke dag om half negen in de ochtend. De deuren gaan open om kwart over acht. Alle kinderen moeten om half negen in de klas zitten. Op maandag, dinsdag en donderdag blijven de kinderen tussen de middag op school. Zij eten hun eigen brood in de klas. De school zorgt voor melk of water. De lessen eindigen op deze dagen om drie uur. Op woensdag en vrijdag is de school eerder klaar. De kinderen gaan dan om twaalf uur al naar huis. Er is dan geen lunch op school. Heeft u vragen over de nieuwe tijden? Kom dan naar de informatieavond op 15 mei.",
+          "questions": [
+            {
+              "id": "q11",
+              "type": "multiple_choice",
+              "question": "Hoe laat gaan de deuren van de school open?",
+              "options": [
+                "Om 08:15 uur",
+                "Om 08:30 uur",
+                "Om 09:00 uur"
+              ],
+              "correctAnswer": "Om 08:15 uur",
+              "explanation": "The text says: 'De deuren gaan open om kwart over acht (08:15).'",
+              "category": "time"
+            },
+            {
+              "id": "q12",
+              "type": "multiple_choice",
+              "question": "Wanneer gaan de kinderen om 12:00 uur naar huis?",
+              "options": [
+                "Op maandag en dinsdag",
+                "Op woensdag en vrijdag",
+                "Alleen op woensdag"
+              ],
+              "correctAnswer": "Op woensdag en vrijdag",
+              "explanation": "The text states: 'Op woensdag en vrijdag is de school eerder klaar. De kinderen gaan dan om twaalf uur al naar huis.'",
+              "category": "time"
+            }
+          ]
+        },
+        {
+          "id": "p7",
+          "level": 5,
+          "theme": "Gezondheid",
+          "textType": "dialoog",
+          "context": "Hassan belt de assistente van de huisarts.",
+          "text": "Assistent: Goedemorgen, met de praktijk van dokter Jansen. Hassan: Goedemorgen, met Hassan. Ik voel me niet goed. Ik heb hoofdpijn en ik hoest veel. Assistent: Heeft u ook koorts? Hassan: Ja, mijn temperatuur is 39 graden. Assistent: Dat is vervelend. De dokter kan u vandaag zien om kwart voor elf. Kunt u dan komen? Hassan: Ja, dat kan. Moet ik mijn verzekeringspas meenemen? Assistent: Ja, dat is belangrijk. En vergeet niet een mondkapje te dragen in de wachtkamer. Als u de afspraak wilt veranderen, moet u twee uur van tevoren bellen. De dokter schrijft misschien medicijnen voor. U kunt die daarna ophalen bij de apotheek naast de supermarkt. Beterschap!",
+          "questions": [
+            {
+              "id": "q13",
+              "type": "multiple_choice",
+              "question": "Wat is de temperatuur van Hassan?",
+              "options": [
+                "37 graden",
+                "38 graden",
+                "39 graden"
+              ],
+              "correctAnswer": "39 graden",
+              "explanation": "Hassan says in the dialogue: 'Ja, mijn temperatuur is 39 graden.'",
+              "category": "detail"
+            },
+            {
+              "id": "q14",
+              "type": "multiple_choice",
+              "question": "Waar kan Hassan zijn medicijnen ophalen?",
+              "options": [
+                "Bij de dokter",
+                "Bij de apotheek",
+                "Bij de supermarkt"
+              ],
+              "correctAnswer": "Bij de apotheek",
+              "explanation": "The assistant says: 'U kunt die daarna ophalen bij de apotheek naast de supermarkt.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p8",
+          "level": 5,
+          "theme": "Communicatie",
+          "textType": "brief",
+          "context": "U ontvangt een brief van de gemeente over uw afval.",
+          "text": "Beste bewoner, deze brief gaat over het ophalen van uw afval. Vanaf januari verandert de dag voor het plastic afval. Wij komen nu niet meer op woensdag, maar op vrijdagmorgen langs. U moet de zakken voor acht uur buiten zetten. Let op: gebruik alleen de speciale blauwe zakken van de gemeente. Andere zakken nemen wij niet mee. U kunt de blauwe zakken gratis ophalen bij de bibliotheek of het gemeentehuis. Het papier en het glas halen wij nog steeds elke eerste maandag van de maand op. Heeft u nog vragen over het afval? Kijk dan op de website van de gemeente of bel naar het telefoonnummer 14-010. Bedankt voor uw hulp bij het schoonhouden van onze stad.",
+          "questions": [
+            {
+              "id": "q15",
+              "type": "multiple_choice",
+              "question": "Op welke dag wordt het plastic nu opgehaald?",
+              "options": [
+                "Op maandag",
+                "Op woensdag",
+                "Op vrijdag"
+              ],
+              "correctAnswer": "Op vrijdag",
+              "explanation": "The text says: 'Wij komen nu niet meer op woensdag, maar op vrijdagmorgen langs.'",
+              "category": "time"
+            },
+            {
+              "id": "q16",
+              "type": "multiple_choice",
+              "question": "Waar zijn de blauwe zakken voor het afval te koop?",
+              "options": [
+                "In de supermarkt",
+                "Ze zijn gratis bij de bibliotheek",
+                "Bij de medewerker van de vuilniswagen"
+              ],
+              "correctAnswer": "Ze zijn gratis bij de bibliotheek",
+              "explanation": "The text states: 'U kunt de blauwe zakken gratis ophalen bij de bibliotheek of het gemeentehuis.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p9",
+          "level": 5,
+          "theme": "Vakantie en Werk",
+          "textType": "kort verhaal",
+          "context": "U leest over Jan en zijn vakantieplannen.",
+          "text": "Jan werkt in een groot restaurant in Amsterdam. Hij is een kok en hij kookt elke avond lekker eten. Jan werkt vijf dagen per week, van woensdag tot en met zondag. Op maandag en dinsdag is Jan vrij. Zijn vrouw heet Anna. Anna werkt op een school, zij is een docent Nederlands. Zij hebben samen twee kinderen, een zoon en een dochter. De familie spaart nu geld voor een vakantie naar Italië. Zij willen in de zomer met de auto naar de bergen gaan. De vakantie kost in totaal tweeduizend euro. Dat is veel geld, daarom werkt Jan nu extra uren op zondagavond. Anna geeft ook extra les aan volwassenen op zaterdag. Zij hopen dat zij in juli genoeg geld hebben. Dan gaan zij drie weken weg naar de zon.",
+          "questions": [
+            {
+              "id": "q17",
+              "type": "multiple_choice",
+              "question": "Wat is het beroep van Jan?",
+              "options": [
+                "Hij is een ober",
+                "Hij is een kok",
+                "Hij is een docent"
+              ],
+              "correctAnswer": "Hij is een kok",
+              "explanation": "The text explicitly mentions: 'Hij is een kok en hij kookt elke avond lekker eten.'",
+              "category": "detail"
+            },
+            {
+              "id": "q18",
+              "type": "multiple_choice",
+              "question": "Op welke dagen hoeft Jan niet te werken?",
+              "options": [
+                "Zaterdag en zondag",
+                "Maandag en dinsdag",
+                "Woensdag en donderdag"
+              ],
+              "correctAnswer": "Maandag en dinsdag",
+              "explanation": "The text states: 'Op maandag en dinsdag is Jan vrij.'",
+              "category": "time"
+            },
+            {
+              "id": "q19",
+              "type": "multiple_choice",
+              "question": "Hoeveel geld kost de vakantie naar Italië?",
+              "options": [
+                "1000 euro",
+                "1500 euro",
+                "2000 euro"
+              ],
+              "correctAnswer": "2000 euro",
+              "explanation": "The text says: 'De vakantie kost in totaal tweeduizend (2000) euro.'",
+              "category": "money"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A1 Leesexamen Training: Naar Nederland 6-April 5",
+      "description": "Dit examen bereidt u voor op het officiële basisexamen inburgering. Het bevat teksten over werk, familie, wonen en transport op A1 niveau met een hogere moeilijkheidsgraad.",
+      "timerMinutes": 35,
+      "startMessage": "Welkom. We gaan oefenen voor het A1 Leesexamen. Dit is op niveau van het boek Naar Nederland en vergelijkbaar met het echte examen.",
+      "passages": [
+        {
+          "id": "p1",
+          "level": 4,
+          "theme": "Transport",
+          "textType": "e-mail",
+          "context": "U leest een e-mail van Sophie aan haar vriendin over een reis met de trein.",
+          "text": "Beste Linda, ik kom vandaag een beetje later naar Den Haag. De trein naar het station heeft een groot probleem. Er rijden nu geen treinen tussen Utrecht en Gouda. Ik sta nu op het perron te wachten. De conducteur zegt dat de reis een uur extra duurt. Ik neem nu de bus naar een ander station. Dat is een lange weg. We spreken niet af bij de bioscoop om twee uur. Dat halen we niet. Kunnen we afspreken bij het restaurant naast het station? Ik denk dat ik daar om drie uur ben. Heb jij tijd? Stuur je mij een berichtje op mijn telefoon? Alvast bedankt en tot straks in de stad. Groetjes, Sophie.",
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple_choice",
+              "question": "Waarom is Sophie later?",
+              "options": [
+                "De bus is kapot.",
+                "Er rijden geen treinen.",
+                "Ze is de weg kwijt."
+              ],
+              "correctAnswer": "Er rijden geen treinen.",
+              "explanation": "The text states: 'Er rijden nu geen treinen tussen Utrecht en Gouda.' This is the reason for the delay.",
+              "category": "detail"
+            },
+            {
+              "id": "q2",
+              "type": "multiple_choice",
+              "question": "Hoe laat wil Sophie nu afspreken?",
+              "options": [
+                "Om twee uur.",
+                "Om drie uur.",
+                "Om vier uur."
+              ],
+              "correctAnswer": "Om drie uur.",
+              "explanation": "Sophie suggests a new time in the text: 'Ik denk dat ik daar om drie uur ben.'",
+              "category": "time"
+            }
+          ]
+        },
+        {
+          "id": "p2",
+          "level": 4,
+          "theme": "Gezondheid",
+          "textType": "mededeling",
+          "context": "U leest een briefje bij de huisarts in de wachtkamer.",
+          "text": "Welkom bij de praktijk van dokter Bakker. Wij hebben nieuwe regels voor de patiënten. Wilt u een afspraak maken met de dokter? Bel dan in de ochtend tussen acht uur en tien uur. In de middag is de assistente bezig met andere taken. Heeft u medicijnen nodig? Neem uw oude doosje mee naar de balie. U krijgt dan een nieuw recept voor de apotheek. De apotheek zit in de straat hiernaast. Bent u erg ziek en kunt u niet lopen? De dokter komt na vijf uur bij u thuis op bezoek. Let op: op donderdag is de praktijk gesloten. U moet dan bellen naar de dokter in het dorp. Het telefoonnummer staat op de deur van de praktijk.",
+          "questions": [
+            {
+              "id": "q3",
+              "type": "multiple_choice",
+              "question": "Wanneer moet u bellen voor een afspraak?",
+              "options": [
+                "Tussen 08:00 en 10:00 uur.",
+                "De hele middag.",
+                "Na vijf uur."
+              ],
+              "correctAnswer": "Tussen 08:00 en 10:00 uur.",
+              "explanation": "The notice says: 'Bel dan in de ochtend tussen acht uur en tien uur.'",
+              "category": "time"
+            },
+            {
+              "id": "q4",
+              "type": "multiple_choice",
+              "question": "Wat moet u meenemen voor nieuwe medicijnen?",
+              "options": [
+                "Uw paspoort.",
+                "Geld voor de dokter.",
+                "Het oude doosje."
+              ],
+              "correctAnswer": "Het oude doosje.",
+              "explanation": "The text instructs: 'Neem uw oude doosje mee naar de balie.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p3",
+          "level": 4,
+          "theme": "Wonen",
+          "textType": "advertentie",
+          "context": "U leest een advertentie voor een woning op internet.",
+          "text": "Te huur: Mooie woning in het centrum van Haarlem. Het huis is vlakbij het grote park en de winkels. Er zijn drie kamers: een grote woonkamer en twee slaapkamers. De keuken is modern en heeft een nieuwe machine voor de vaat. Boven is de badkamer met een toilet en een douche. De huurprijs is 950 euro per maand. Dat is inclusief water en licht. U betaalt geen extra geld voor de verwarming. De woning is vrij vanaf één mei. Wilt u het huis bekijken? Dat kan op zaterdagmiddag. U moet eerst een e-mail sturen naar de eigenaar, meneer De Vries. Hij zoekt een rustig gezin zonder honden of katten. Roken in het huis is niet toegestaan. Er is ook een kleine tuin.",
+          "questions": [
+            {
+              "id": "q5",
+              "type": "multiple_choice",
+              "question": "Hoeveel slaapkamers heeft de woning?",
+              "options": [
+                "Eén slaapkamer.",
+                "Twee slaapkamers.",
+                "Drie slaapkamers."
+              ],
+              "correctAnswer": "Twee slaapkamers.",
+              "explanation": "The text mentions: 'een grote woonkamer en twee slaapkamers.' Total is 3 rooms, but only 2 are bedrooms.",
+              "category": "detail"
+            },
+            {
+              "id": "q6",
+              "type": "multiple_choice",
+              "question": "Zit de verwarming bij de huurprijs in?",
+              "options": [
+                "Waar",
+                "Niet waar",
+                "Niet bekend"
+              ],
+              "correctAnswer": "Waar",
+              "explanation": "The text states: 'Dat is inclusief water en licht. U betaalt geen extra geld voor de verwarming.' Therefore, it is included.",
+              "category": "logic"
+            }
+          ]
+        },
+        {
+          "id": "p4",
+          "level": 4,
+          "theme": "Werk",
+          "textType": "brief",
+          "context": "U leest een brief over een nieuwe baan in een ziekenhuis.",
+          "text": "Geachte heer Janssen, gefeliciteerd met uw nieuwe baan. U begint op maandag bij het ziekenhuis in Leiden. U gaat daar werken als schoonmaker. Uw werkdag begint om zes uur in de ochtend. Dat is erg vroeg, maar u bent dan ook vroeg klaar. U werkt vijf uur per dag. Uw pauze is om half negen. U kunt dan gratis koffie of thee drinken in de kantine. U moet speciale kleding dragen voor het werk. Deze kleding ligt voor u klaar in een kast. De sleutel krijgt u van de baas. Uw salaris wordt elke maand op uw bankrekening gestort. Heeft u vragen over de uren? Bel dan naar mevrouw Smit van de administratie. Wij wensen u veel succes met uw werk in ons team.",
+          "questions": [
+            {
+              "id": "q7",
+              "type": "multiple_choice",
+              "question": "Hoe laat begint de pauze?",
+              "options": [
+                "Om 06:00 uur.",
+                "Om 08:30 uur.",
+                "Om 11:00 uur."
+              ],
+              "correctAnswer": "Om 08:30 uur.",
+              "explanation": "The text says: 'Uw pauze is om half negen.' (Half negen is 08:30).",
+              "category": "time"
+            },
+            {
+              "id": "q8",
+              "type": "multiple_choice",
+              "question": "Waar is de werkkleding?",
+              "options": [
+                "In een kast.",
+                "In de kantine.",
+                "Die moet u zelf kopen."
+              ],
+              "correctAnswer": "In een kast.",
+              "explanation": "The text confirms: 'Deze kleding ligt voor u klaar in een kast.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p5",
+          "level": 5,
+          "theme": "Familie",
+          "textType": "uitnodiging",
+          "context": "U leest een uitnodiging voor een verjaardag van een kind.",
+          "text": "Hoera! Onze zoon Lucas wordt vijf jaar. Dat vieren wij met een groot feest. Kom jij ook op zijn verjaardag? Het feest is op zaterdag twaalf april. We beginnen om twee uur in de middag. Het feest is bij ons thuis in de achtertuin. We gaan leuke spelletjes doen en er is een clown. Er is ook lekkere taart en limonade voor alle kinderen. De ouders mogen ook blijven voor een kopje soep. Het feest is om vijf uur afgelopen. Lucas vindt auto's en boeken erg leuk om te krijgen. Wil je laten weten of je komt? Bel dan voor volgende week woensdag naar zijn moeder, Fatima. Het adres is Kerkstraat nummer tien. Trek oude kleren aan, want we gaan misschien buiten spelen in het zand.",
+          "questions": [
+            {
+              "id": "q9",
+              "type": "multiple_choice",
+              "question": "Hoe oud wordt Lucas?",
+              "options": [
+                "Twaalf jaar.",
+                "Vijf jaar.",
+                "Twee jaar."
+              ],
+              "correctAnswer": "Vijf jaar.",
+              "explanation": "The text starts with: 'Onze zoon Lucas wordt vijf jaar.'",
+              "category": "detail"
+            },
+            {
+              "id": "q10",
+              "type": "multiple_choice",
+              "question": "Waarom moeten de kinderen oude kleren aan?",
+              "options": [
+                "Omdat de clown dat wil.",
+                "Omdat ze in het zand spelen.",
+                "Omdat de taart vies is."
+              ],
+              "correctAnswer": "Omdat ze in het zand spelen.",
+              "explanation": "The text explains: 'Trek oude kleren aan, want we gaan misschien buiten spelen in het zand.'",
+              "category": "logic"
+            }
+          ]
+        },
+        {
+          "id": "p6",
+          "level": 5,
+          "theme": "Geld",
+          "textType": "mededeling",
+          "context": "U leest een poster bij de ingang van een supermarkt.",
+          "text": "Beste klanten van supermarkt 'De Markt'. Deze week hebben wij veel korting op gezond eten. Alle groenten zijn nu twee voor de prijs van één. Een zak aardappelen kost nu maar twee euro. Dat is heel goedkoop! Vers brood is in de middag goedkoper dan in de ochtend. Na vier uur betaalt u voor een heel brood slechts één euro. Let op: we hebben een nieuwe regel voor betalen. Vanaf morgen kunt u niet meer met contant geld betalen bij kassa vier. Daar kunt u alleen pinnen met uw bankpas. Wilt u wel met muntjes of briefgeld betalen? Ga dan naar kassa één of twee. Wij zijn elke dag open tot acht uur 's avonds, behalve op zondag. Dan sluiten wij al om vijf uur.",
+          "questions": [
+            {
+              "id": "q11",
+              "type": "multiple_choice",
+              "question": "Wanneer is het brood het goedkoopst?",
+              "options": [
+                "In de ochtend.",
+                "In de middag.",
+                "De hele dag."
+              ],
+              "correctAnswer": "In de middag.",
+              "explanation": "The text says: 'Vers brood is in de middag goedkoper dan in de ochtend.'",
+              "category": "time"
+            },
+            {
+              "id": "q12",
+              "type": "multiple_choice",
+              "question": "Waar kunt u met contant geld betalen?",
+              "options": [
+                "Bij kassa 1 en 2.",
+                "Bij kassa 4.",
+                "Bij alle kassa's."
+              ],
+              "correctAnswer": "Bij kassa 1 en 2.",
+              "explanation": "The text states: 'Wilt u wel met muntjes of briefgeld betalen? Ga dan naar kassa één of twee.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p7",
+          "level": 5,
+          "theme": "Communicatie",
+          "textType": "schoolbericht",
+          "context": "U leest informatie over een cursus op een schoolbord.",
+          "text": "Wilt u beter Nederlands leren spreken? Kom dan naar de taalcursus op de dinsdagavond. De lessen zijn voor mensen die al een beetje Nederlands kennen. We oefenen vooral met praten over dagelijkse dingen. Denk aan praten met de buren of bellen met de school van uw kind. De cursus duurt tien weken. Elke les duurt twee uur, van zeven uur tot negen uur. De kosten voor de hele cursus zijn vijftig euro. U moet ook een boek kopen. Dat boek kost vijftien euro. U kunt het boek kopen bij de leraar in de eerste les. Wilt u meedoen? Schrijf uw naam op de lijst bij de receptie. Er is plek voor twaalf personen. Wees er snel bij, want de lijst is bijna vol. De eerste les is op zeven mei.",
+          "questions": [
+            {
+              "id": "q13",
+              "type": "multiple_choice",
+              "question": "Hoeveel kost de cursus in totaal zonder het boek?",
+              "options": [
+                "15 euro.",
+                "50 euro.",
+                "65 euro."
+              ],
+              "correctAnswer": "50 euro.",
+              "explanation": "The text specifies: 'De kosten voor de hele cursus zijn vijftig euro.' (The book is separate).",
+              "category": "money"
+            },
+            {
+              "id": "q14",
+              "type": "multiple_choice",
+              "question": "Wat doet u tijdens de lessen?",
+              "options": [
+                "Veel schrijven.",
+                "Veel praten.",
+                "Alleen lezen."
+              ],
+              "correctAnswer": "Veel praten.",
+              "explanation": "The text mentions: 'We oefenen vooral met praten over dagelijkse dingen.'",
+              "category": "detail"
+            }
+          ]
+        },
+        {
+          "id": "p8",
+          "level": 5,
+          "theme": "Vrije tijd",
+          "textType": "dialoog",
+          "context": "U leest een gesprek tussen Jan en zijn buurvrouw Eva.",
+          "text": "Jan: 'Hallo Eva, ga je vanmiddag weer wandelen met de hond?' Eva: 'Nee Jan, vandaag niet. De hond is bij mijn moeder. Ik ga naar het zwembad in het centrum. Ik zwem elke vrijdag een uur. Dat is goed voor mijn rug.' Jan: 'Wat goed van je. Ik sport ook graag, maar ik ga liever naar de sportschool. Ik train daar twee keer per week op maandag en donderdag. Het is daar altijd erg druk in de avond.' Eva: 'Dat geloof ik graag. Is het duur?' Jan: 'Het kost dertig euro per maand. Dat valt mee. Na het sporten ga ik vaak nog even naar de sauna. Dat is heerlijk.' Eva: 'Veel plezier. Ik moet nu gaan, want de bus komt over vijf minuten bij de halte.' Jan: 'Tot ziens, Eva!'",
+          "questions": [
+            {
+              "id": "q15",
+              "type": "multiple_choice",
+              "question": "Wat doet Eva op vrijdag?",
+              "options": [
+                "Wandelen met de hond.",
+                "Zwemmen.",
+                "Naar de sportschool gaan."
+              ],
+              "correctAnswer": "Zwemmen.",
+              "explanation": "Eva says: 'Ik ga naar het zwembad... Ik zwem elke vrijdag een uur.'",
+              "category": "detail"
+            },
+            {
+              "id": "q16",
+              "type": "multiple_choice",
+              "question": "Wanneer gaat Jan naar de sportschool?",
+              "options": [
+                "Op vrijdag.",
+                "Op maandag en donderdag.",
+                "Elke avond."
+              ],
+              "correctAnswer": "Op maandag en donderdag.",
+              "explanation": "Jan states: 'Ik train daar twee keer per week op maandag en donderdag.'",
+              "category": "time"
+            }
+          ]
+        },
+        {
+          "id": "p9",
+          "level": 5,
+          "theme": "Informatie",
+          "textType": "informatiefolder",
+          "context": "U leest informatie over de bibliotheek.",
+          "text": "De bibliotheek is een fijne plek voor iedereen. U kunt hier boeken, films en tijdschriften lenen. Heeft u een pasje nodig? Dat kost twintig euro voor een heel jaar. Kinderen onder de achttien jaar betalen niets voor een pasje. U mag de boeken drie weken houden. Daarna moet u ze terugbrengen of de tijd verlengen via de website. Brengt u de boeken te laat terug? Dan moet u een boete betalen van vijftig cent per dag. Er staan ook veel computers in de bibliotheek. Het gebruik van internet is gratis voor alle leden. Wilt u liever een krant lezen met een kopje koffie? Dat kan in de leestafel-hoek. De bibliotheek is open van maandag tot en met zaterdag. Op feestdagen zijn wij de hele dag gesloten. Wij hopen u snel te zien!",
+          "questions": [
+            {
+              "id": "q17",
+              "type": "multiple_choice",
+              "question": "Wie hoeft er niet te betalen voor een pasje?",
+              "options": [
+                "Iedereen.",
+                "Alleen oude mensen.",
+                "Kinderen onder de 18 jaar."
+              ],
+              "correctAnswer": "Kinderen onder de 18 jaar.",
+              "explanation": "The text says: 'Kinderen onder de achttien jaar betalen niets voor een pasje.'",
+              "category": "detail"
+            },
+            {
+              "id": "q18",
+              "type": "multiple_choice",
+              "question": "Hoe lang mag u een boek lenen?",
+              "options": [
+                "Eén week.",
+                "Drie weken.",
+                "Een hele maand."
+              ],
+              "correctAnswer": "Drie weken.",
+              "explanation": "The text mentions: 'U mag de boeken drie weken houden.'",
+              "category": "time"
+            },
+            {
+              "id": "q19",
+              "type": "multiple_choice",
+              "question": "Wat is gratis voor leden van de bibliotheek?",
+              "options": [
+                "De koffie.",
+                "Het internet.",
+                "De films."
+              ],
+              "correctAnswer": "Het internet.",
+              "explanation": "The text explicitly states: 'Het gebruik van internet is gratis voor alle leden.'",
+              "category": "detail"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
